@@ -154,20 +154,6 @@
       "Quantity": null
     },
     {
-      "Type": 519,
-      "RequiredIngredients": [],
-      "DepthDifficulty": 100,
-      "Category": "Equipment",
-      "RestrictedTools": [],
-      "RandomizeDifficulty": [
-        0,
-        0,
-        100,
-        100
-      ],
-      "Quantity": null
-    },
-    {
       "Type": 518,
       "RequiredIngredients": [],
       "DepthDifficulty": 100,
@@ -191,39 +177,6 @@
         0
       ],
       "Quantity": 5
-    },
-    {
-      "Type": 522,
-      "RequiredIngredients": [],
-      "DepthDifficulty": 500,
-      "Category": "Equipment",
-      "RestrictedTools": [],
-      "RandomizeDifficulty": [
-        500,
-        500,
-        250,
-        250,
-        100,
-        100,
-        0,
-        0
-      ],
-      "Quantity": null
-    },
-    {
-      "Type": 808,
-      "RequiredIngredients": [],
-      "DepthDifficulty": 250,
-      "Category": "Equipment",
-      "RestrictedTools": [],
-      "RandomizeDifficulty": [
-        250,
-        250,
-        100,
-        0,
-        0
-      ],
-      "Quantity": null
     },
     {
       "Type": 801,
